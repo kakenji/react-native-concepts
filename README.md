@@ -8,3 +8,4 @@
     [Expo SDK 54]
 - run the project 
     npx expo start
+- npx expo install react-dom react-native-web
