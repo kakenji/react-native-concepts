@@ -9,3 +9,6 @@
 - run the project 
     npx expo start
 - npx expo install react-dom react-native-web
+npx expo install @react-navigation/native
+npx expo install react-native-screens react-native-safe-area-context
+npx expo install @react-navigation/native-stack
