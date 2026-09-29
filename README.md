@@ -12,3 +12,6 @@
 npx expo install @react-navigation/native
 npx expo install react-native-screens react-native-safe-area-context
 npx expo install @react-navigation/native-stack
+npx expo install @expo/vector-icons
+npx expo install react-native-reanimated react-native-worklets react-native-gesture-handler
+npx expo install expo-video
